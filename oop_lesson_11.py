@@ -42,3 +42,4 @@ class User:
 a = User('aaa', 'aaa12')
 print(a.password)
 # a.secret
+
